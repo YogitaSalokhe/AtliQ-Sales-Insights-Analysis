@@ -30,7 +30,7 @@ Sales director of the AltiQ hardware, decided to build a PowerBI Dashboard for c
 ![Performance Analysis](https://github.com/YogitaSalokhe/AtliQ-Sales-Insights-Analysis/assets/143188442/b59182c4-6203-49fb-8134-dc1f75ef0a4a)
 
 # Some Important Insights from Dashboard:
-﻿1. Revenue trended down, resulting in a 43.61% decrease between Sunday, October 1, 2017 and Monday, June 1, 2020.﻿﻿
+1. Revenue trended down, resulting in a 43.61% decrease between Sunday, October 1, 2017 and Monday, June 1, 2020.﻿﻿
 
 2. Revenue started trending down on Sunday, September 1, 2019, falling by 40.84% (10156340) in 9 months.﻿﻿﻿
 
