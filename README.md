@@ -31,15 +31,25 @@ Sales director of the AltiQ hardware, decided to build a PowerBI Dashboard for c
 
 # Some Important Insights from Dashboard:
 ﻿1. Revenue trended down, resulting in a 43.61% decrease between Sunday, October 1, 2017 and Monday, June 1, 2020.﻿﻿
-2. ﻿﻿Revenue started trending down on Sunday, September 1, 2019, falling by 40.84% (10156340) in 9 months.﻿﻿﻿
+
+2. Revenue started trending down on Sunday, September 1, 2019, falling by 40.84% (10156340) in 9 months.﻿﻿﻿
+
 3. ﻿﻿﻿﻿At 519.51 Million, Delhi NCR had the highest Revenue and Bengaluru had the lowest Revenue at 373115.﻿﻿
-﻿﻿﻿﻿4. Delhi NCR accounted for 52.75% of Revenue.﻿﻿
+
+4. Delhi NCR accounted for 52.75% of Revenue.﻿﻿
+
 5. ﻿﻿﻿﻿Across all 14 markets_name, Sales Qty ranged from 413 to 988294.﻿﻿
-﻿﻿﻿﻿6. Across all 14 markets, Revenue Contribution % ranged from 0.04% to 52.8%.﻿﻿
-﻿﻿﻿7. Profit Margin % started trending down on Sunday, December 1, 2019, falling by 26.23% (0.00) in 6 months.﻿﻿
-﻿﻿﻿8. ﻿Profit Margin % dropped from 0.02 to 0.01 during its steepest decline between Sunday, December 1, 2019 and Monday, June 1, 2020.﻿﻿
-﻿﻿﻿9. At 52.8%, Delhi NCR had the highest Revenue Contribution % and was 1,39,137.04% higher than Bengaluru, which had the lowest Revenue Contribution % at 0.04%.﻿﻿
+
+6. Across all 14 markets, Revenue Contribution % ranged from 0.04% to 52.8%.﻿﻿
+
+7. Profit Margin % started trending down on Sunday, December 1, 2019, falling by 26.23% (0.00) in 6 months.
+
+8. ﻿Profit Margin % dropped from 0.02 to 0.01 during its steepest decline between Sunday, December 1, 2019 and Monday, June 1, 2020.﻿﻿
+
+9. At 52.8%, Delhi NCR had the highest Revenue Contribution % and was 1,39,137.04% higher than Bengaluru, which had the lowest Revenue Contribution % at 0.04%.﻿﻿
+
 10. ﻿﻿Central Zone had the highest Profit Margin % at 3.3%, followed by North at 2.2% and South at 2.2%.﻿﻿
+
 11. ﻿﻿﻿Delhi NCR had the highest Revenue (519 Million) and Surat had the highest Profit Margin % (4.9%). The zone with the highest Revenue and Profit Margin % was North.﻿﻿
 
 ﻿﻿
